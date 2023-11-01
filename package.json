@@ -1,0 +1,23 @@
+{
+  "name": "learningnpmpublish",
+  "version": "1.0.0",
+  "description": "Testing NPM Publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbomkamp/learningnpmpublish.git"
+  },
+  "keywords": [
+    "NPM",
+    "Publish"
+  ],
+  "author": "Brad Bomkamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbomkamp/learningnpmpublish/issues"
+  },
+  "homepage": "https://github.com/bbomkamp/learningnpmpublish#readme"
+}
